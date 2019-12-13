@@ -1,0 +1,10 @@
+1561017200554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tr7wcC6K5waY"
+1561017200998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561017200999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561017200999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561017203578	Marionette	INFO	Listening on port 45959
+1561017203667	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26269): dconf-WARNING **: 14:53:29.985: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 26161, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-ErLm_I/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1561017211762	Marionette	INFO	Stopped listening on port 45959

@@ -1,0 +1,8 @@
+temp/
+server/temp/
+client/data/
+client/test_data/
+server/data/
+*.jpg
+*.png
+*.zip

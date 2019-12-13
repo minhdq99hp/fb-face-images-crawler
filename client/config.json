@@ -1,0 +1,6 @@
+{
+    "server-url": "http://127.0.0.1:5000/",
+    "data-path": "data/",
+    "temp-path": "temp/",
+    "version": "1.0.0.0"
+}
